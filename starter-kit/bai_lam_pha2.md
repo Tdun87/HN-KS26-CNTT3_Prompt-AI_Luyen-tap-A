@@ -1,9 +1,9 @@
 # BÀI LÀM PHA 2 (ĐỀ LUYỆN TẬP CHỦ ĐỀ CHẠY AFFILIATE)
 
-- **Họ tên:**Nguyễn Thế Huy
-- **Lớp:**CNTT3
-- **Link repository Pha2:**https://github.com/mrwe08/test_promting_final
-- **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):**gemini
+- **Họ tên:** Nguyễn Tiến Dũng
+- **Lớp:** CNTT3
+- **Link repository Pha2:** https://github.com/Tdun87/HN-KS26-CNTT3_Prompt-AI_Luyen-tap-A
+- **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):** gemini
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
 
