@@ -1,8 +1,8 @@
 # BÀI LÀM PHA 1 (ĐỀ LUYỆN TẬP CHỦ ĐỀ CHẠY AFFILIATE)
 
-- **Họ tên:**Nguyễn Thế Huy
+- **Họ tên:** Nguyễn Tiến Dũng
 - **Lớp:**CNTT3
-- **Link repository :**https://github.com/mrwe08/test_promting_final
+- **Link repository :** https://github.com/Tdun87/HN-KS26-CNTT3_Prompt-AI_Luyen-tap-A
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
