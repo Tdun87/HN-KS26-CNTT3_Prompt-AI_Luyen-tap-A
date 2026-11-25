@@ -88,15 +88,12 @@ Tổng tiền: 7.020.000 + 500.000 = 7.520.000 đồng
 **KET QUA AI**
 
 ```text
-```markdown
 | Tiêu chí | Điểm | Minh chứng | Đề xuất sửa |
 | :--- | :--- | :--- | :--- |
-| **Đúng thông tin** (5,0 điểm) | 0,0 / 5,0 | **Lỗi 1:** "Gói TikTok Affiliate bên mình giá chỉ 1.200.000đ/người thôi"<br>- *Lý do sai:* Sai mức giá chuẩn của trung tâm (giá đúng là 1.500.000 đồng/Creator chính).<br><br>**Lỗi 2:** "Bạn báo huỷ trước 5 ngày thì được hoàn lại đủ 100% tiền nha"<br>- *Lý do sai:* Sai chính sách hoàn tiền (huỷ trước 3 đến 6 ngày chỉ được hoàn 50%, không phải 100%). | **Sửa lỗi 1:** "Hiện tại gói TikTok Affiliate (TT) bên trung tâm có mức phí là 1.500.000 đồng/Creator chính ạ."<br><br>**Sửa lỗi 2:** "Theo chính sách của trung tâm, nếu anh/chị báo huỷ trước ngày bắt đầu 5 ngày (thuộc mốc từ 3 đến 6 ngày), anh/chị sẽ được hoàn lại 50% học phí ạ." |
-| **Đầy đủ** (3,0 điểm) | 1,5 / 3,0 | **Lỗi:** Toàn bộ bài làm thiếu phần kêu gọi hành động.<br>- *Lý do sai:* Đã trả lời đủ 2 câu hỏi của khách (dù sai thông tin) nhưng thiếu nội dung mời khách hàng cung cấp ngày đợt thực chiến và số lượng suất muốn đăng ký. | **Bổ sung cuối câu trả lời:** "Anh/chị vui lòng cho bên em xin thông tin về ngày đợt thực chiến dự kiến tham gia và số lượng suất muốn đăng ký để em hỗ trợ giữ chỗ cho mình nhé." |
-| **Giọng điệu** (2,0 điểm) | 0,0 / 2,0 | **Lỗi 1:** "Dạ hello bạn nha!", "cứ chốt lẹ kẻo hết slot nè!"<br>- *Lý do sai:* Sử dụng ngôn ngữ suồng sã, thiếu tính chuyên nghiệp trong tư vấn.<br><br>**Lỗi 2:** "đăng ký xong gắn link là nổ đơn hoa hồng trăm triệu luôn ạ."<br>- *Lý do sai:* Vi phạm quy định khi cam kết doanh thu/hoa hồng ảo cho khách hàng. | **Sửa lỗi 1:** Thay bằng lời chào và kết câu lịch sự: "Dạ chào anh/chị ạ!", "Anh/chị phản hồi sớm để bên em hỗ trợ giữ suất tham gia nhé ạ."<br><br>**Sửa lỗi 2:** Xoá bỏ hoàn toàn câu cam kết doanh thu ảo này khỏi nội dung tư vấn. |
-| **Tổng điểm** | **1,5 / 10** | | |
-
-```
+| **Đúng thông tin (50%)** | 0 / 5,0 | **Lỗi sai & Nguyên do:** Sai lệch hoàn toàn so với thông tin chuẩn của trung tâm do không đối chiếu dữ liệu quy định.<br>1. **Giá gói:** Báo *"1.200.000đ/người"* (thông tin chuẩn là **1.500.000 đồng/Creator chính**).<br>2. **Chính sách huỷ:** Báo huỷ trước 5 ngày được *"hoàn lại đủ 100% tiền"* (thông tin chuẩn quy định huỷ trước từ 3 đến 6 ngày chỉ được **hoàn 50%**). | Cung cấp lại đúng dữ liệu chuẩn:<br>- **Giá gói TT:** 1.500.000 đồng/Creator chính.<br>- **Chính sách huỷ:** Huỷ trước ngày bắt đầu 5 ngày (nằm trong mốc từ 3 đến 6 ngày) sẽ được **hoàn lại 50% tiền** (mất 50% phí đăng ký). |
+| **Đầy đủ (30%)** | 2,0 / 3,0 | - **Đạt:** Đã giải đáp đủ 2 câu hỏi của khách hàng (mức giá và điều kiện hoàn tiền khi huỷ trước 5 ngày).<br>- **Lỗi sai & Nguyên do:** Bỏ sót bước khai thác thông tin chốt đơn theo quy trình; chưa mời khách hàng cung cấp **ngày đợt thực chiến** và **số lượng suất muốn đăng ký**. | Giữ nội dung trả lời 2 ý hỏi và bổ sung câu mời thông tin ở cuối: *"Bạn vui lòng cho mình xin thông tin về ngày đợt thực chiến dự kiến tham gia và số lượng suất muốn đăng ký để trung tâm hỗ trợ giữ chỗ nhé."* |
+| **Giọng điệu (20%)** | 0 / 2,0 | **Lỗi sai & Nguyên do:** Sử dụng văn phong thiếu chuẩn mực trong tư vấn dịch vụ và đưa ra lời hứa hẹn sai thực tế.<br>1. **Từ ngữ suồng sã:** *"hello bạn nha"*, *"chốt lẹ kẻo hết slot nè"*.<br>2. **Cam kết doanh thu/hoa hồng ảo:** *"đăng ký xong gắn link là nổ đơn hoa hồng trăm triệu luôn ạ"*. | Thay thế bằng ngôn ngữ lịch sự, chuyên nghiệp, loại bỏ toàn bộ từ lóng và cam kết thu nhập không có căn cứ. Sửa thành: *"Chào bạn, trung tâm Vietaffiliate xin gửi đến bạn thông tin chi tiết về gói TikTok Affiliate (TT) như sau..."* |
+| **Tổng điểm** | **2,0 / 10** | | |
 ```
 
-**Link trò chuyện:**https://share.gemini.google/zkAIu4DTHLZk
+**Link trò chuyện:** https://share.gemini.google/kpjtudtVAull
